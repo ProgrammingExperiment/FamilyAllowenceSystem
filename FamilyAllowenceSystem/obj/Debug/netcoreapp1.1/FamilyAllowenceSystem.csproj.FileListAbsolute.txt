@@ -1,0 +1,9 @@
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\bin\Debug\netcoreapp1.1\FamilyAllowenceSystem.deps.json
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\bin\Debug\netcoreapp1.1\FamilyAllowenceSystem.runtimeconfig.json
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\bin\Debug\netcoreapp1.1\FamilyAllowenceSystem.runtimeconfig.dev.json
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\bin\Debug\netcoreapp1.1\FamilyAllowenceSystem.dll
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\bin\Debug\netcoreapp1.1\FamilyAllowenceSystem.pdb
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\obj\Debug\netcoreapp1.1\FamilyAllowenceSystem.csprojResolveAssemblyReference.cache
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\obj\Debug\netcoreapp1.1\FamilyAllowenceSystem.AssemblyInfo.cs
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\obj\Debug\netcoreapp1.1\FamilyAllowenceSystem.dll
+c:\users\luisprograms\documents\visual studio 2017\Projects\FamilyAllowenceSystem\FamilyAllowenceSystem\obj\Debug\netcoreapp1.1\FamilyAllowenceSystem.pdb
